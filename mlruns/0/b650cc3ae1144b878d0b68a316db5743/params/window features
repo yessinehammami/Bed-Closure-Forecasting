@@ -1,0 +1,9 @@
+[RollingFeatures(
+    stats           = ['std'],
+    window_sizes    = [4],
+    Max window size = 4,
+    min_periods     = [4],
+    features_names  = ['roll_std_4'],
+    fillna          = None
+    kwargs_stats    = {'ewm': {'alpha': 0.3}},
+)]
