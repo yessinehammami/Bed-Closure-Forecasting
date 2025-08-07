@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/868899257492822344/b932ccf63ff0455c9c5c11f7a3ee7533/artifacts
+end_time: 1754576902974
+entry_point_name: ''
+experiment_id: '868899257492822344'
+lifecycle_stage: active
+run_id: b932ccf63ff0455c9c5c11f7a3ee7533
+run_name: lgbm_backtest_c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754576902649
+status: 3
+tags: []
+user_id: yessi
