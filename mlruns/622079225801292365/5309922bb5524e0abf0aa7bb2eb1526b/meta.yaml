@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/622079225801292365/5309922bb5524e0abf0aa7bb2eb1526b/artifacts
+end_time: 1754665776301
+entry_point_name: ''
+experiment_id: '622079225801292365'
+lifecycle_stage: active
+run_id: 5309922bb5524e0abf0aa7bb2eb1526b
+run_name: RF_val_c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754665775713
+status: 3
+tags: []
+user_id: yessi
